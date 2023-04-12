@@ -926,8 +926,8 @@ function sendMail() {
     message: message,
   };
 
-  const serviceID = "service_7tiyhan";
-  const templateID = "template_oikceac";
+  const serviceID = "service_7outeyt";
+  const templateID = "template_qbqayd9";
 
   emailjs
     .send(serviceID, templateID, params)
@@ -975,8 +975,8 @@ function popMail() {
     message: message,
   };
 
-  const serviceID = "service_7tiyhan";
-  const templateID = "template_gybkedj";
+  const serviceID = "service_7outeyt";
+  const templateID = "template_7bxza9m";
 
   emailjs
     .send(serviceID, templateID, params)
